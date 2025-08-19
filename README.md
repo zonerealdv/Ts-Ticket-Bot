@@ -1,16 +1,16 @@
 ### Özellikler
 
-– Ticket paneli: `/setup` ile butonlu panel
-– Ticket açma (modal): sebep girişi, doğrulama
-– Tek açık ticket: mevcut ticket kapanmadan yenisi yok
-– Memnuniyet sistemi: seçim menüsü, menü kaldırma
-– Teşekkür + otomatik kapatma: zamanlayıcıyla silme
-– Üye yönetimi: kanala kullanıcı ekle/çıkar (modal)
-– Transcript ve log: arşiv ve olay kaydı
-– İstatistikler (sayfalı): özet ve memnuniyet dağılımı
-– Slash komutları: `/help`,`/setup`, `/stats`, `/ticket ...`
-– JSON veritabanı: kalıcı saklama
-– Ayarlar: renk/kanal/rol/kategori/limit
+– `Ticket paneli: `/setup` ile butonlu panel`
+– `Ticket açma (modal): sebep girişi, doğrulama`
+– `Tek açık ticket: mevcut ticket kapanmadan yenisi yok`
+– `Memnuniyet sistemi: seçim menüsü, menü kaldırma`
+– `Teşekkür + otomatik kapatma: zamanlayıcıyla silme`
+– `Üye yönetimi: kanala kullanıcı ekle/çıkar (modal)`
+– `Transcript ve log: arşiv ve olay kaydı`
+– `İstatistikler (sayfalı): özet ve memnuniyet dağılımı`
+– `Slash komutları: `/help`,`/setup`, `/stats`, `/ticket ...``
+– `JSON veritabanı: kalıcı saklama`
+– `Ayarlar: renk/kanal/rol/kategori/limit`
 
 ### Kurulum
 
@@ -33,4 +33,5 @@
   - `roles.staffRoleId`, `ticket.categoryId`
   - `ticket.maxTicketsPerUser`, `ticket.autoCloseAfterHours`
   - Değişikliklerden sonra botu yeniden başlat
+
 
