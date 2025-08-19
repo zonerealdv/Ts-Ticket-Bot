@@ -28,7 +28,7 @@ client.on(Events.ClientReady, () => {
   
   // Bot durumunu ayarla
   client.user?.setActivity({
-    name: '🎫 Ticket Sistemi',
+    name: 'By ZoneReal',
     type: ActivityType.Watching
   });
   
@@ -59,4 +59,5 @@ global.commandManager = new CommandManager();
 new EventManager();
 
 // Bot başlat
+
 client.login(config.bot.token); 
