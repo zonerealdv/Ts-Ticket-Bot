@@ -1,0 +1,27 @@
+{
+  "name": "discord-ticket-bot",
+  "version": "1.0.0",
+  "description": "Ts Ticket Bot By ZoneReal",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node index.ts",
+    "watch": "tsc --watch"
+  },
+  "keywords": ["discord", "bot", "ticket", "typescript"],
+  "author": "ZoneReal",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "canvas": "^2.11.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/moment": "^2.13.0",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+} 

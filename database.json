@@ -1,0 +1,10 @@
+{
+  "tickets": [],
+  "transcripts": [],
+  "logs": [],
+  "settings": {
+    "lastTicketId": 0,
+    "lastTranscriptId": 0
+  }
+}
+

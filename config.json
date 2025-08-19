@@ -1,0 +1,25 @@
+{
+  "bot": {
+    "token": "TOKEN",
+    "clientId": "CLIENT ID",
+    "guildId": "SUNUCU ID"
+  },
+  "channels": {
+    "logChannelId": "",
+    "transcriptChannelId": ""
+  },
+  "roles": {
+    "staffRoleId": ""
+  },
+  "ticket": {
+    "categoryId": "",
+    "maxTicketsPerUser": 5,
+    "autoCloseAfterHours": 100
+  },
+  "colors": {
+    "primary": "#5865F2",
+    "success": "#57F287",
+    "error": "#ED4245",
+    "warning": "#FEE75C"
+  }
+}
